@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Songify</string>
+    <string name="action_settings">Settings</string>
+    <string name="tracks"></string>
+    <string name="button_enter"> Find Track </string>
+    <string-array name="genre">
+        <item>Hip-Hop</item>
+        <item>RnB</item>
+        <item>Pop</item>
+
+    </string-array>
+</resources>
